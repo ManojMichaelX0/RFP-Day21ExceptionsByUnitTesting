@@ -1,0 +1,16 @@
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\bin\Debug\net5.0\ExceptionsUsingTestCast.exe
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\bin\Debug\net5.0\ExceptionsUsingTestCast.deps.json
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\bin\Debug\net5.0\ExceptionsUsingTestCast.runtimeconfig.json
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\bin\Debug\net5.0\ExceptionsUsingTestCast.runtimeconfig.dev.json
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\bin\Debug\net5.0\ExceptionsUsingTestCast.dll
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\bin\Debug\net5.0\ExceptionsUsingTestCast.pdb
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ExceptionsUsingTestCast.csproj.AssemblyReference.cache
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ExceptionsUsingTestCast.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ExceptionsUsingTestCast.AssemblyInfoInputs.cache
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ExceptionsUsingTestCast.AssemblyInfo.cs
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ExceptionsUsingTestCast.csproj.CoreCompileInputs.cache
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ExceptionsUsingTestCast.dll
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\refint\ExceptionsUsingTestCast.dll
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ExceptionsUsingTestCast.pdb
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ExceptionsUsingTestCast.genruntimeconfig.cache
+D:\.net\MoodAnalyserUnitTextAndExceptions\ExceptionsUsingTestCast\ExceptionsUsingTestCast\obj\Debug\net5.0\ref\ExceptionsUsingTestCast.dll
