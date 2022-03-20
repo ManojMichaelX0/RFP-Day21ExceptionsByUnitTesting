@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegistrationUsingException", "UserRegistrationUsingException\UserRegistrationUsingException.csproj", "{3CD10823-553A-4690-8487-C0C9EFD43256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{12B093A5-9AFA-4615-B0B6-43C95CE02D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD10823-553A-4690-8487-C0C9EFD43256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD10823-553A-4690-8487-C0C9EFD43256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD10823-553A-4690-8487-C0C9EFD43256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD10823-553A-4690-8487-C0C9EFD43256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B093A5-9AFA-4615-B0B6-43C95CE02D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B093A5-9AFA-4615-B0B6-43C95CE02D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B093A5-9AFA-4615-B0B6-43C95CE02D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B093A5-9AFA-4615-B0B6-43C95CE02D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5430C218-1F70-4EC9-8B0D-4490F33A1F80}
+	EndGlobalSection
+EndGlobal
